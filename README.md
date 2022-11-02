@@ -54,17 +54,19 @@
 | :--------: | :-----------------------------------------: | :---------------------------------------: | :-----------------------------------: |
 | 密度     | ![b](figure/basketball_intensity_fps.jpg) | ![ba](figure/balloon_intensity_fps.jpg) | ![d](figure/dance_intensity_fps.jpg) |
 | Hog      | ![b](figure/basketball_hog_fps.jpg)       | ![b](figure/balloon_hog_fps.jpg)        | ![d](figure/dance_hog_fps.jpg)       |
-| 梯度     | ![b](figure/basketball_gradient_fps.jpg)  | ![b](README/balloon_gradient_fps.jpg)   | ![d](figure/dance_gradient_fps.jpg)  |
+| 梯度     | ![b](figure/basketball_gradient_fps.jpg)  | ![b](figure/balloon_gradient_fps.jpg) | ![d](figure/dance_gradient_fps.jpg)  |
+| 深度 | ![b](figure/basketball_deep_fps.jpg) | ![b](figure/balloon_deep_fps.jpg) | ![d](figure/dance_deep_fps.jpg) |
 
 <br>
 
-| 特征类型    | 篮球赛视频                                                   | 热气球飞行视频                                               | 舞蹈视频                                                     |
+| 特征类型   | 篮球赛视频                                                   | 热气球飞行视频                                               | 舞蹈视频                                                     |
 | :---------: | :------------------------------------------------------------: | :------------------------------------------------------------: | :------------------------------------------------------------: |
-| Intensity | ![image-20221102194105851](README/image-20221102194105851.png) | ![image-20221102194114640](README/image-20221102194114640.png) | ![image-20221102194118275](README/image-20221102194118275.png) |
+| 密度 | ![image-20221102194105851](README/image-20221102194105851.png) | ![image-20221102194114640](README/image-20221102194114640.png) | ![image-20221102194118275](README/image-20221102194118275.png) |
 | Hog       | ![image-20221102194731477](README/image-20221102194731477.png) | ![image-20221102195207816](README/image-20221102195207816.png) | ![image-20221102194337481](README/image-20221102194337481.png) |
-| Gradient |                                                              | ![image-20221102195851153](README/image-20221102195851153.png) |                                                              |
+| 梯度 | ![image-20221102200259747](README/image-20221102200259747.png) | ![image-20221102195851153](README/image-20221102195851153.png) | ![image-20221102200818716](README/image-20221102200818716.png) |
+| 深度 | ![image-20221102202723052](README/image-20221102202723052.png) | ![image-20221102203219336](README/image-20221102203219336.png) | ![image-20221102202143251](README/image-20221102202143251.png) |
 
 <br>
 
-#### 
+
 
