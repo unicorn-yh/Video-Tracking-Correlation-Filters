@@ -7,7 +7,7 @@
 
 <p align="center"><img src="README/flowchart.png" alt="Algorithm Flowchart"></p>
 
-<h3 align="center">Fig. 1: Algorithm Flowchart of Visual Object Tracking based on Correlation Filters</h3>
+<h4 align="center">Fig. 1: Algorithm Flowchart of Visual Object Tracking based on Correlation Filters</h4>
 
 
 
